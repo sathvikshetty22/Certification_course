@@ -12,4 +12,6 @@
   <h3>learning about ORMs,APIs </h3>
   <h2>Lesson6</h2>
   <h3>learning about JavaScript </h3>
+  <h2>Lesson7</h2>
+  <h3>learning about Front Ends</h3>
   </html>
