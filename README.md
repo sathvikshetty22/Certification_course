@@ -22,5 +22,7 @@
   <h3>learning about GitHub, Travis CI</h3>
    <h2>Lesson11</h2>
   <h3>learning about Scalability</h3>
+  <h2>Lesson12</h2>
+  <h3>learning about Security</h3>
   </html>
   
