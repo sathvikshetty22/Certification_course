@@ -31,5 +31,10 @@
   <h3>learning about The Web Development Full stack</h3>
   <h2>topic2</h2>
   <h3>learning about Creating Web pages</h3>
+  <h2>topic1</h2>
+  <h3>learning about JavaScript fundamentals</h3>
+  <h2>topic2</h2>
+  <h3>learning about 	Setting up a web server</h3>
   </html>
   
+
