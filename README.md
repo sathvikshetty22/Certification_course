@@ -35,6 +35,11 @@
   <h3>learning about JavaScript fundamentals</h3>
   <h2>topic4</h2>
   <h3>learning about 	Setting up a web server</h3>
+  <h2>topic5</h2>
+  <h3>learning about Programming Fundamentals</h3>
+  <h2>topic6</h2>
+  <h3>learning about 	PHP & Backend Code</h3>
   </html>
   
+
 
