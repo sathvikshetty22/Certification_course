@@ -39,7 +39,12 @@
   <h3>learning about Programming Fundamentals</h3>
   <h2>topic6</h2>
   <h3>learning about 	PHP & Backend Code</h3>
+  <h2>topic7</h2>
+  <h3>learning about PHP & Databasess</h3>
+  <h2>topic8</h2>
+  <h3>learning about 	Putting it all together Code</h3>
   </html>
   
+
 
 
